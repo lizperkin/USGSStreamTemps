@@ -1,14 +1,14 @@
 # USGSStreamTemps
 Analysis of stream temps using publicly available data from USGS gauges
 
-Raw Data
+<b>Raw Data</b><br>
 Location of data files downloaded directly from USGS gauges & any original supplemental data files
 
-Data
+<b>Data</b><br>
 Location of data files that have been edited
 
-R Code
+<b>R Code</b><br>
 Location of all R scripts 
 
-Figures
+<b>Figures</b><br>
 Location of all figures created
